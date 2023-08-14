@@ -15,6 +15,10 @@ int div(int a, int b)
 {
     return (a / b);
 }
+int Mod(int a, int b)
+{
+    return (a % b);
+}
 void main()
 {
     int s = sum(2, 4);
